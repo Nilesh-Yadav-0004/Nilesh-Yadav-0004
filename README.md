@@ -2,7 +2,6 @@
 <h3 align="center">Frontend Developer | JavaScript | React Learner</h3> 
 Hello
 Namaste 
-...
 ---
 
 ## 🚀 About Me
