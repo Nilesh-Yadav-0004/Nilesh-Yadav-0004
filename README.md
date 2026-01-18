@@ -3,7 +3,6 @@
 Hello
 namaste
 India
-....
 ---
 
 ## 🚀 About Me
