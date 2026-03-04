@@ -7,7 +7,6 @@
 - 💻 Interested in **Frontend Development**
 - 🎯 Goal: Become a professional **Web Developer**
 - 📍 India
-
 ---
 
 ## 🛠️ Tech Stack
