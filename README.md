@@ -1,5 +1,5 @@
 <div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Hello+Everyone+!;I+Am+Hetuk+Patel"  />
+ <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Hello+Everyone+!;I+Am+Nilesh+Yadav"  />
 </div>
 <h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
 
@@ -72,9 +72,9 @@
 <br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 <br>
