@@ -8,7 +8,6 @@
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=00ff00&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Web+Developer;Quick+Learner;Self+Motivated"  />
 </div>
-hii
 
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
