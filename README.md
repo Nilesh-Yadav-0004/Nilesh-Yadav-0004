@@ -7,7 +7,7 @@
  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=00ff00&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Web+Developer;Quick+Learner;Self+Motivated"  />
 </div>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-hii
+
 <p align="center">
   <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="400"/>
   <img src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400" height="225"/>
