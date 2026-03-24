@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://instagram.com/nil_esh0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nil_esh0004" height="31" width="45" /></a>
  
-<a href="https://www.linkedin.com/in/hetuk-patel-169a30384/" target="blank">
+<a href="https://www.linkedin.com/in/nilesh-yadav-283186283/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nilesh_Yadav" height="31" width="45" />
 </a>
 
