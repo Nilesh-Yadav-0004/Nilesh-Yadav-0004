@@ -15,8 +15,8 @@ I'm a full stack developer who builds complete web applications, from responsive
 
 - 🔭 **Currently learning:** React, Redux, and building end-to-end applications
 - 🛠️ **What I do:** Responsive UIs, REST APIs, server-side development, database-driven apps
-- 📂 **My work:** [github.com/Nilesh-Yadav-0004/webDevelopment](https://github.com/Nilesh-Yadav-0004/webDevelopment)
-- 📫 **Reach me:** [ny033222@gmail.com](mailto:ny033222@gmail.com)
+- 📂 **My work:** [github.com/Nilesh-Yadav-0004](https://github.com/Nilesh-Yadav-0004/)
+- 📫 **Reach me:** [nilesh.yadav.dev04@gmail.com](mailto:nilesh.yadav.dev04@gmail.com)
 
 ## Tech Stack
 
