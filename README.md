@@ -15,8 +15,8 @@ I'm a full stack developer who builds complete web applications, from responsive
 
 - 🔭 **Currently learning:** React, Redux, and building end-to-end applications
 - 🛠️ **What I do:** Responsive UIs, REST APIs, server-side development, database-driven apps
-- 📂 **My work:** [github.com/Nilesh-Yadav-0004](https://github.com/Nilesh-Yadav-0004/)
-- 📫 **Reach me:** [nilesh.yadav.dev04@gmail.com](mailto:nilesh.yadav.dev04@gmail.com)
+- 📂 **My work:** [github.com/Nilesh-Yadav-0004/webDevelopment](https://github.com/Nilesh-Yadav-0004/webDevelopment)
+- 📫 **Reach me:** [ny033222@gmail.com](mailto:ny033222@gmail.com)
 
 ## Tech Stack
 
@@ -45,6 +45,15 @@ I'm a full stack developer who builds complete web applications, from responsive
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </p>
 
+## Featured Projects
+
+> Replace these with your best 2–4 projects. Show at least one that uses both frontend and backend.
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Project Name** | Full stack app: what it does and the problem it solves | React, Python, MySQL | [Live](#) · [Code](#) |
+| **Project Name** | Full stack app: what it does and the problem it solves | HTML, CSS, JavaScript, PHP, MySQL | [Live](#) · [Code](#) |
+| **Project Name** | Frontend or API project with a clear outcome | React / Python | [Live](#) · [Code](#) |
 
 ## GitHub Stats
 
@@ -56,6 +65,16 @@ I'm a full stack developer who builds complete web applications, from responsive
 <p align="center">
   <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nilesh-Yadav-0004&theme=github-dark&hide_border=true"/>
 </p>
+
+## Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
