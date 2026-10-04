@@ -45,15 +45,6 @@ I'm a full stack developer who builds complete web applications, from responsive
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </p>
 
-## Featured Projects
-
-> Replace these with your best 2–4 projects. Show at least one that uses both frontend and backend.
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **Project Name** | Full stack app: what it does and the problem it solves | React, Python, MySQL | [Live](#) · [Code](#) |
-| **Project Name** | Full stack app: what it does and the problem it solves | HTML, CSS, JavaScript, PHP, MySQL | [Live](#) · [Code](#) |
-| **Project Name** | Frontend or API project with a clear outcome | React / Python | [Live](#) · [Code](#) |
 
 ## GitHub Stats
 
