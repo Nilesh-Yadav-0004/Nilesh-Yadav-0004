@@ -1,122 +1,71 @@
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Hello+Everyone+!;I+Am+Nilesh+Yadav"  />
-</div>
-<h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
-<img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=00ff00&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Web+Developer;Quick+Learner;Self+Motivated"  />
-</div>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h1 align="center">Nilesh Yadav</h1>
+<h3 align="center">Full Stack Developer · India</h3>
 
 <p align="center">
-  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="400"/>
-  <img src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400" height="225"/>
-  <img src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/media/main/Enjoy.gif" width="400"/>
+  <a href="https://www.linkedin.com/in/nilesh-yadav-283186283/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:ny033222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://instagram.com/nil_esh0004"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-- 🌱 I'm currently learning **React, Redux**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nilesh-Yadav-0004/webDevelopment.git](https://github.com/Nilesh-Yadav-0004/webDevelopment.git)
+## About Me
 
-- 📫 How to reach me **ny033222@gmail.com**
+I'm a full stack developer who builds complete web applications, from responsive user interfaces to server-side logic and databases. I work across the stack with JavaScript and React on the frontend and Python and PHP on the backend, and I learn quickly by shipping real projects.
 
-- ⚡ Fun fact **I Am Funny😅**
+- 🔭 **Currently learning:** React, Redux, and building end-to-end applications
+- 🛠️ **What I do:** Responsive UIs, REST APIs, server-side development, database-driven apps
+- 📂 **My work:** [github.com/Nilesh-Yadav-0004/webDevelopment](https://github.com/Nilesh-Yadav-0004/webDevelopment)
+- 📫 **Reach me:** [ny033222@gmail.com](mailto:ny033222@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nil_esh0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nil_esh0004" height="31" width="45" /></a>
- 
-<a href="https://www.linkedin.com/in/nilesh-yadav-283186283/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nilesh_Yadav" height="31" width="45" />
-</a>
+## Tech Stack
 
-<a href="https://wa.me/7458852739" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="31" width="45" />
-</a>
+**Frontend**
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"/>
 </p>
 
-## 👨‍💻 Tech Stack I am Familiar With
+**Backend**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+</p>
+
+**Database & Tools**
+
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
+
+## Featured Projects
+
+> Replace these with your best 2–4 projects. Show at least one that uses both frontend and backend.
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Project Name** | Full stack app: what it does and the problem it solves | React, Python, MySQL | [Live](#) · [Code](#) |
+| **Project Name** | Full stack app: what it does and the problem it solves | HTML, CSS, JavaScript, PHP, MySQL | [Live](#) · [Code](#) |
+| **Project Name** | Frontend or API project with a clear outcome | React / Python | [Live](#) · [Code](#) |
+
+## GitHub Stats
 
 <p align="center">
-<br/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=black&style=for-the-badge" style="border-radius:10px;"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=Css&logoColor=black" style="border-radius:10px;"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" style="border-radius:10px;"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" style="border-radius:10px;"/>
-<br/>
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Yadav-0004&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Yadav-0004&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Yadav-0004&layout=compact&theme=chartreuse-dark&cache_seconds=86400"  
-    alt="GitHub Stats"/>
-  <br><br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nilesh-Yadav-0004&theme=chartreuse-dark&show_icons=true" 
-    alt="Top Languages" 
-  />
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nilesh-Yadav-0004&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats" style="text-decoration:none;">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="Hetuk's streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Nilesh-Yadav-0004&theme=chartreuse-dark"
-    />
-  </a>
-</p>
+---
 
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/hetuk2005/hetuk2005/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-<br>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<img src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/media/main/Intro.gif">
-<!-- refreshed Wed Jan 28 02:12:16 UTC 2026 -->
-<!-- refreshed Thu Jan 29 02:34:47 UTC 2026 -->
-<!-- refreshed Fri Jan 30 02:34:31 UTC 2026 -->
-<!-- refreshed Sat Jan 31 02:30:16 UTC 2026 -->
-<!-- refreshed Sun Feb  1 02:55:55 UTC 2026 -->
-<!-- refreshed Mon Feb  2 02:45:03 UTC 2026 -->
-<!-- refreshed Tue Feb  3 02:41:36 UTC 2026 -->
-<!-- refreshed Wed Feb  4 02:35:55 UTC 2026 -->
-<!-- refreshed Thu Feb  5 02:37:51 UTC 2026 -->
-<!-- refreshed Fri Feb  6 02:38:17 UTC 2026 -->
-<!-- refreshed Sat Feb  7 02:33:10 UTC 2026 -->
-<!-- refreshed Sun Feb  8 03:17:05 UTC 2026 -->
-<!-- refreshed Mon Feb  9 02:45:59 UTC 2026 -->
-<!-- refreshed Tue Feb 10 02:54:24 UTC 2026 -->
-<!-- refreshed Wed Feb 11 02:52:23 UTC 2026 -->
-<!-- refreshed Thu Feb 12 02:47:58 UTC 2026 -->
-<!-- refreshed Fri Feb 13 02:48:13 UTC 2026 -->
-<!-- refreshed Sat Feb 14 02:35:15 UTC 2026 -->
-<!-- refreshed Sun Feb 15 02:49:09 UTC 2026 -->
-<!-- refreshed Mon Feb 16 02:44:30 UTC 2026 -->
-<!-- refreshed Tue Feb 17 02:40:48 UTC 2026 -->
-<!-- refreshed Wed Feb 18 02:44:21 UTC 2026 -->
-<!-- refreshed Thu Feb 19 02:43:25 UTC 2026 -->
-<!-- refreshed Fri Feb 20 02:38:06 UTC 2026 -->
-<!-- refreshed Sat Feb 21 02:31:47 UTC 2026 -->
-<!-- refreshed Sun Feb 22 02:44:20 UTC 2026 -->
-<!-- refreshed Mon Feb 23 02:44:40 UTC 2026 -->
-<!-- refreshed Tue Feb 24 02:41:45 UTC 2026 -->
-<!-- refreshed Wed Feb 25 02:42:14 UTC 2026 -->
-<!-- refreshed Thu Feb 26 02:37:59 UTC 2026 -->
-<!-- refreshed Fri Feb 27 02:36:06 UTC 2026 -->
-<!-- refreshed Sat Feb 28 02:25:47 UTC 2026 -->
-<!-- refreshed Sun Mar  1 02:51:29 UTC 2026 -->
-<!-- refreshed Mon Mar  2 02:39:17 UTC 2026 -->
-<!-- refreshed Tue Mar  3 02:42:08 UTC 2026 -->
-<!-- refreshed Wed Mar  4 02:34:20 UTC 2026 -->
-<!-- refreshed Thu Mar  5 02:37:25 UTC 2026 -->
-<!-- refreshed Fri Mar  6 02:35:01 UTC 2026 -->
-<!-- refreshed Sat Mar  7 02:28:37 UTC 2026 -->
-<!-- refreshed Sun Mar  8 02:41:39 UTC 2026 -->
-<!-- refreshed Mon Mar  9 02:43:10 UTC 2026 -->
+<p align="center"><i>Open to internships and junior full stack roles. Let's connect.</i></p>
