@@ -56,17 +56,3 @@ I'm a full stack developer who builds complete web applications, from responsive
 <p align="center">
   <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nilesh-Yadav-0004&theme=github-dark&hide_border=true"/>
 </p>
-
-## Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Nilesh-Yadav-0004/Nilesh-Yadav-0004/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-<p align="center"><i>Open to internships and junior full stack roles. Let's connect.</i></p>
