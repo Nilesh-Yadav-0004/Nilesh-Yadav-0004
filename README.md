@@ -1,4 +1,4 @@
-.<h1 align="center">Nilesh Yadav</h1>
+<h1 align="center">Nilesh Yadav</h1>
 <h3 align="center">Full Stack Developer · India</h3>
 
 <p align="center">
